@@ -1,4 +1,8 @@
-# Obsidian Sample Plugin
+---
+created: 2022-12-31T16:14:29-06:00
+updated: 2022-12-31T16:14:29-06:00
+---
+# Obsidian Canvas Utilities Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
